@@ -5,7 +5,7 @@ body{
     justify-content: center;
     align-items: center;
     background: -webkit-linear-gradient(left, #7579ff, #b224ef);
-    background-image: url(ocean.jpg);
+    background-image: url(images/high.jpg);
     background-position: cover;
 }
 
