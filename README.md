@@ -1,4 +1,4 @@
 # Login and Register
-using various stacks
-#HTML
-#CSS
+# using various stacks
+# HTML
+# CSS
