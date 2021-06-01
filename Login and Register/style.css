@@ -1,0 +1,54 @@
+body {
+  background-image: url(images/avid.jpg);
+  background-position: cover;
+  background-repeat: no-repeat;
+
+}
+
+.navbar {
+  overflow: hidden; /* Hide overflow */
+  background-color: rgba(0, 0, 0, 0.65);
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left; 
+  display: inline; 
+  color: white; 
+  text-align: center; 
+  padding: 14px 50px;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+
+.navbar a.right {
+  float: right; 
+}
+
+.navbar a:hover {
+  background-color: rgba(255,255,255, 0.3);
+  color: skyblue;
+}
+.navbar a.active {
+  background-color: #12833ec7;
+  color: white;
+}
+
+h1 {
+  color: floralwhite;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-left: 25px;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.541);
+  text-align: center;
+  color: white;
+  width: 100%;
+    }
+
+.credits, a {
+  color: white;
+}
